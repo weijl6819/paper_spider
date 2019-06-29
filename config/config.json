@@ -1,0 +1,7 @@
+{
+    "oakland_url_lists": ["https://www.ieee-security.org/TC/SP2019/program-papers.html", 
+        "https://www.ieee-security.org/TC/SP2018/program-papers.html",
+        "https://www.ieee-security.org/TC/SP2017/program-papers.html",
+        "https://www.ieee-security.org/TC/SP2016/program-papers.html"
+    ]
+}
